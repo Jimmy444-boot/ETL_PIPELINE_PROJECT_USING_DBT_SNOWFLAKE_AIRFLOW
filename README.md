@@ -75,7 +75,5 @@ The final result is a robust ELT pipeline that delivers clean, validated, and an
 
 This setup provides a scalable foundation for data engineering and analytics teams to build upon.
 
----
 
-## 📁 Project Structure
 
